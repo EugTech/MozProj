@@ -8,3 +8,5 @@ feel free to edit this and add more partners
 * Inhaus fabrication - STEM education & local manufacturing
 * DEED - Downtown Eugene Economic Development
 * Eugene Chamber of Commerce
+
+Would you like to be included on this list? Submit an [Issue](https://github.com/EugTech/MozProj/issues) or Pull Request.
